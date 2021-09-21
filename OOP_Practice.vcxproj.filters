@@ -18,18 +18,18 @@
     <ClCompile Include="OOP_Practice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\OOP Practice\Movie.cpp">
+    <ClCompile Include="Movie.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\OOP Practice\Movies.cpp">
+    <ClCompile Include="Movies.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\OOP Practice\Movie.h">
+    <ClInclude Include="Movies.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\OOP Practice\Movies.h">
+    <ClInclude Include="Movie.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
